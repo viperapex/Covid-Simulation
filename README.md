@@ -1,4 +1,4 @@
-# Dynamic Agent-Based Modeling and Analysis of Epidemic Spread as a Complex Adaptive System: Simulating Infection, Recovery, and Immunization Responses in a Virtual Population
+# Dynamic Agent-Based Modeling and Analysis of Epidemic Spread as a Complex Adaptive System
 
 This project explores epidemic spread as a Complex Adaptive System (CAS) through a dynamic agent-based simulation. Using the classical Susceptible-Infected-Recovered (SIR) model as a foundation, the simulation extends it with additional states such as Vaccinated and Vaccinator agents, while also incorporating heterogeneous properties like age, health status, and immunity levels.
 
